@@ -1,0 +1,2 @@
+def longestSequence(string):
+    pass
